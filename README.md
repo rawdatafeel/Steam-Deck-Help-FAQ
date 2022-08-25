@@ -20,7 +20,7 @@
 
 # Table of Contents
 
-1. [Getting Started with the Steam Deck](https://github.com/mikeroyal/Steam-Deck-Guide#getting-started-with-the-steam-deck)
+1. [Getting Started with the Steam Deck](https://github.com/rawdatafeel/Steam-Deck-Help-FAQ#getting-started-with-the-steam-deck)
 
      - [Steam Deck Accessories](https://github.com/mikeroyal/Steam-Deck-Guide#Steam-Deck-Accessories)
      - [Steam Deck Development](https://github.com/mikeroyal/Steam-Deck-Guide#steam-deck-development)
